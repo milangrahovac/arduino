@@ -1,5 +1,4 @@
 // Temp, Humidity, Date and Time functions using a DS3231 RTC and DTH11 connected via I2C and Wire lib
-#include <Wire.h>
 #include "RTClib.h"
 #include "dht.h"
 #include <LiquidCrystal_I2C.h>
@@ -16,19 +15,16 @@ void setup () {
   lcd.init();
   lcd.backlight();
 
-#ifndef ESP8266
-  while (!Serial); // for Leonardo/Micro/Zero
-#endif
-
     Serial.begin(9600);
     delay(2000); // wait for console opening
 
     if (! rtc.begin()) {
         Serial.println("Couldn't find RTC");
         lcd.setCursor(0,0);
-        lcd.print(String("Couldn't find");
+        lcd.print(String("Couldn't find"));
         lcd.setCursor(0,1);
-        lcd.print(String("RTC");
+        lcd.print(String("RTC"));
+        delay(2000);
     while (1);
   }
 
@@ -36,9 +32,9 @@ void setup () {
     Serial.println("RTC lost power, lets set the time!");
     lcd.clear();
     lcd.setCursor(0,0);
-    lcd.print(String("RTC lost power,");
+    lcd.print(String("RTC lost power,"));
     lcd.setCursor(0,1);
-    lcd.print(String("lets set the time!");
+    lcd.print(String("lets set the time!"));
     delay(2000);
 
     // following line sets the RTC to the date & time this sketch was compiled
@@ -63,7 +59,6 @@ void TimeAndDate () {
         char bufDate[50];
         sprintf(bufDate, "%02d/%02d/%04d", now.day(), now.month(), now.year());
     
-        
         lcd.setCursor(4,0);
         lcd.print(bufTime);
         lcd.setCursor(0,1);
