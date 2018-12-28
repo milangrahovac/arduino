@@ -1,3 +1,5 @@
+Clock and temperature
+
 Used in this project:
 1. Arduino Nano
 2. 1602 LCD Display Module for Arduino IIC/I2 
