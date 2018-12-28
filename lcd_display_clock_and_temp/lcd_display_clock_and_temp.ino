@@ -51,7 +51,6 @@ void TimeAndDate () {
     lcd.clear();
     
     for (int i=0; i <= 5; i++){
-
         DateTime now = rtc.now();
         
         char bufTime[50];
@@ -65,7 +64,6 @@ void TimeAndDate () {
         lcd.print(daysOfTheWeek[now.dayOfTheWeek()] + String("   ") +  bufDate);
         
         delay(1000);
-
    }
   
 }
