@@ -21,13 +21,14 @@ void setup () {
 #endif
 
     Serial.begin(9600);
-
-    delay(3000); // wait for console opening
+    delay(2000); // wait for console opening
 
     if (! rtc.begin()) {
         Serial.println("Couldn't find RTC");
         lcd.setCursor(0,0);
-        lcd.print(String("Couldn't find RTC");
+        lcd.print(String("Couldn't find");
+        lcd.setCursor(0,1);
+        lcd.print(String("RTC");
     while (1);
   }
 
