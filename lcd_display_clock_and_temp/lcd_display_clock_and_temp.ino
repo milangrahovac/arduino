@@ -79,7 +79,6 @@ void temperature () {
 }
 
 
-
 void loop () {
     TimeAndDate();
     temperature();
