@@ -1,4 +1,4 @@
-// Date and time functions using a DS3231 RTC connected via I2C and Wire lib
+// Temp, Humidity, Date and Time functions using a DS3231 RTC and DTH11 connected via I2C and Wire lib
 #include <Wire.h>
 #include "RTClib.h"
 #include "dht.h"
