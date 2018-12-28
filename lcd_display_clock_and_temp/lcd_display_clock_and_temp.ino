@@ -65,7 +65,6 @@ void TimeAndDate () {
         
         delay(1000);
    }
-  
 }
 
 
