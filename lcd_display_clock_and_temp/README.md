@@ -36,8 +36,7 @@ Real Time Clock DS3231
 
 
 Humidity & Temperature Sensor DHT11
-⋅⋅
-⋅⋅
+
 | DHT11 | Pin in Arduino  |
 | :-----: | :-: |
 | GND | GND |
