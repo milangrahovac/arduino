@@ -19,7 +19,7 @@ Please use the following configurations tables to connect your Arduino Nano to L
 
 LCD Display 16x02 IIC/I2
 
-| LCD Display| Pin in Arduino  |
+| LCD Display 16x02 IIC/I2 | Pin in Arduino  |
 | :-----: | :-: |
 | GND | GND |
 | VCC | 5V |
