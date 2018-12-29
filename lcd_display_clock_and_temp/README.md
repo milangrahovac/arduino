@@ -47,4 +47,4 @@ Humidity & Temperature Sensor DHT11
 
 **Circuit Diagram**
 
-![arduino-nano1 3](https://user-images.githubusercontent.com/15969033/50539602-63882980-0b83-11e9-8aec-0777c98bd846.png)
+![arduino](/lcd_display_clock_and_temp/circuit_diagram.png)
