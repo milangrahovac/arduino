@@ -27,7 +27,7 @@ LCD Display 16x02 IIC/I2
 
 Real Time Clock DS3231
 
-| RTC  DS3231| Pin in Arduino  |
+| RTC | Pin in Arduino  |
 | :-----: | :-: |
 | GND | GND |
 | VCC | 5V |
@@ -37,7 +37,7 @@ Real Time Clock DS3231
 
 Humidity & Temperature Sensor DHT11
 
-| DH11 | Pin in Arduino  |
+| DHT11 | Pin in Arduino  |
 | :-----: | :-: |
 | GND | GND |
 | Data | D2 |
