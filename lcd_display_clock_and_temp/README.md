@@ -13,7 +13,7 @@ I just bought Arduino and came up with an idea to make clock and weather station
 4. Humidity & Temperature Sensor DHT11
 
 ----
-**Pinout**
+### Pinout**
 
 Please use the following configurations tables to connect your Arduino Nano to LCD Display, Real Time Clock and Humidity & Temperature Sensor.
 
