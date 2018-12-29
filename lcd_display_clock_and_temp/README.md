@@ -1,5 +1,5 @@
 
-##### **About this project**
+### **About this project**
 
 I just bought Arduino and came up with an idea to make clock and weather station.
 
