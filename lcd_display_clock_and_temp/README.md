@@ -9,7 +9,9 @@ Used in this project:
 
 Real Time Clock DS3231
 
-| I2C Line | Pin in Arduino  |
+| RTC | Pin in Arduino  |
 | :-----: | :-: |
+| GND | GND |
+| VCC | 5V |
 | SDA | A4 |
 | SCL | A5 |
