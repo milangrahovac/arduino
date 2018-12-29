@@ -25,3 +25,12 @@ Real Time Clock DS3231
 | VCC | 5V |
 | SDA | A4 |
 | SCL | A5 |
+
+
+Humidity & Temperature Sensor DHT11
+
+| DH11 | Pin in Arduino  |
+| :-----: | :-: |
+| GND | GND |
+| Data | A0 |
+| VCC | 5V |
