@@ -47,4 +47,6 @@ Humidity & Temperature Sensor DHT11
 
 **Circuit Diagram**
 
+Following schematic will help you to understand the pin configurations.
+
 ![arduino](/lcd_display_clock_and_temp/circuit_diagram.png)
