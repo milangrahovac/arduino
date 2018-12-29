@@ -6,10 +6,10 @@ Used in this project:
 3. Real Time Clock DS3231
 4. Humidity & Temperature Sensor DHT11
 
-I2C Line	Pin in Arduino
-SDA	        A4
-SCL	        A5
 
-| Attempt | #1  | #2  |
-| :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
+Real Time Clock DS3231
+
+| I2C Line | Pin in Arduino  |
+| :-----: | :-: |
+| SDA | A4 |
+| SCL | A5 |
