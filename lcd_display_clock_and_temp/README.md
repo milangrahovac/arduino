@@ -1,5 +1,5 @@
 
-*ABOUT THIS PROJECT*
+**ABOUT THIS PROJECT**
 
 I just bought Arduino and came up with an idea to make clock and weather forecasting station.
 
