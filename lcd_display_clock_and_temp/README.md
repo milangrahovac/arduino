@@ -1,7 +1,7 @@
 
 **About this project**
 
-I just bought Arduino and came up with an idea to make clock and weather forecasting station.
+I just bought Arduino and came up with an idea to make clock and weather station.
 
 **Used in this project:**
 1. Arduino Nano
@@ -10,9 +10,9 @@ I just bought Arduino and came up with an idea to make clock and weather forecas
 4. Humidity & Temperature Sensor DHT11
 
 
-LCD Display 16x02 
+LCD Display 16x02 IIC/I2
 
-| Display | Pin in Arduino  |
+| LCD Display| Pin in Arduino  |
 | :-----: | :-: |
 | GND | GND |
 | VCC | 5V |
@@ -22,7 +22,7 @@ LCD Display 16x02
 
 Real Time Clock DS3231
 
-| RTC | Pin in Arduino  |
+| RTC  DS3231| Pin in Arduino  |
 | :-----: | :-: |
 | GND | GND |
 | VCC | 5V |
