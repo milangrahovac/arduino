@@ -13,6 +13,7 @@ I just bought Arduino and came up with an idea to make clock and weather station
 4. Humidity & Temperature Sensor DHT11
 
 ----
+**Pinout**
 
 LCD Display 16x02 IIC/I2
 
@@ -42,5 +43,6 @@ Humidity & Temperature Sensor DHT11
 | Data | D2 |
 | VCC | 5V |
 
+----
 
-Circuit Diagram
+**Circuit Diagram**
