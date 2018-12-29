@@ -1,11 +1,11 @@
 
-### **About this project**
+### About this project
 
 I just bought Arduino and came up with an idea to make clock and weather station.
 
 ----
 
-### **Used in this project:**
+### Used in this project:
 
 1. Arduino Nano
 2. 16x02 LCD Display Module for Arduino IIC/I2 
@@ -13,7 +13,7 @@ I just bought Arduino and came up with an idea to make clock and weather station
 4. Humidity & Temperature Sensor DHT11
 
 ----
-### Pinout**
+#### Pinout
 
 Please use the following configurations tables to connect your Arduino Nano to LCD Display, Real Time Clock and Humidity & Temperature Sensor.
 
