@@ -29,7 +29,7 @@ LCD Display 16x02 IIC/I2
 
 Real Time Clock DS3231
 
-| RTC | Pin in Arduino  |
+| RTC DS3231| Pin in Arduino  |
 | :-----: | :-: |
 | GND | GND |
 | VCC | 5V |
