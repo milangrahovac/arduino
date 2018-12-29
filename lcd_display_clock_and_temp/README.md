@@ -9,3 +9,7 @@ Used in this project:
 I2C Line	Pin in Arduino
 SDA	        A4
 SCL	        A5
+
+| Attempt | #1  | #2  |
+| :-----: | :-: | :-: |
+| Seconds | 301 | 283 |
