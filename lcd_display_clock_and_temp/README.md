@@ -1,4 +1,8 @@
-Clock and temperature
+
+*ABOUT THIS PROJECT*
+
+I just bought Arduino and came up with an idea to make clock and weather forecasting station.
+
 
 Used in this project:
 1. Arduino Nano
@@ -34,3 +38,6 @@ Humidity & Temperature Sensor DHT11
 | GND | GND |
 | Data | D2 |
 | VCC | 5V |
+
+
+Circuit Diagram
