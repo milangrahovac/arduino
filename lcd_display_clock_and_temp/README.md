@@ -32,5 +32,5 @@ Humidity & Temperature Sensor DHT11
 | DH11 | Pin in Arduino  |
 | :-----: | :-: |
 | GND | GND |
-| Data | A0 |
+| Data | D2 |
 | VCC | 5V |
