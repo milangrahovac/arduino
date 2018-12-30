@@ -17,6 +17,7 @@ I just bought Arduino and came up with an idea to make clock and weather station
 
 Please use the following configurations tables to connect your Arduino Nano to LCD Display, Real Time Clock and <br />Humidity & Temperature Sensor.
 
+<br />
 LCD Display 16x02 IIC/I2
 
 | LCD Display 16x02 IIC/I2 | Pin in Arduino  |
@@ -26,7 +27,7 @@ LCD Display 16x02 IIC/I2
 | SDA | A4 |
 | SCL | A5 |
 
-
+<br />
 Real Time Clock DS3231
 
 | RTC DS3231| Pin in Arduino  |
@@ -36,7 +37,7 @@ Real Time Clock DS3231
 | SDA | A4 |
 | SCL | A5 |
 
-
+<br />
 Humidity & Temperature Sensor DHT11
 
 | DHT11 | Pin in Arduino  |
