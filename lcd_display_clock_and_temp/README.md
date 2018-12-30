@@ -15,7 +15,7 @@ I just bought Arduino and came up with an idea to make clock and weather station
 ----
 ### Pinout
 
-Please use the following configurations tables to connect your Arduino Nano to LCD Display, Real Time Clock and Humidity & Temperature Sensor.
+Please use the following configurations tables to connect your Arduino Nano to LCD Display, Real Time Clock and <br />Humidity & Temperature Sensor.
 
 LCD Display 16x02 IIC/I2
 
