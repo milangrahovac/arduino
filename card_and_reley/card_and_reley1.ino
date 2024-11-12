@@ -74,7 +74,7 @@ void loop() {
 
  content.toUpperCase();
 
- if (content.substring(1) == "9B D8 F8 0D" || content.substring(1) == "0A A0 BB C9") //change here the UID of the card/cards that you want to give access
+ if (content.substring(1) == "1S D8 F8 1D" || content.substring(1) == "01 A0 CB C2") //change here the UID of the card/cards that you want to give access
 
  {
 
